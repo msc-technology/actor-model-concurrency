@@ -1,2 +1,3 @@
-# actor-model-concurrency
-A presentation about the Actor Model concurrency
+# Actor Model: Concurrency made simple
+
+How to write highly concurrent, reliable and robust application w/o warring about multithreading complexity and shared memory access. Actor model patterns become very popular these days with the diffusion of distributed systems that are the foundation of cloud computing. The presentation will first introduce you to the pattern itself and then will share a way to implement it using one of the most popular framework on the market, akka(.net) through a production-ready use case and a demo app explaining the main capabilities of the framework that simplify a lot the pattern implementation.
